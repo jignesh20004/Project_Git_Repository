@@ -35,6 +35,7 @@ This Power BI project presents a detailed sales analysis for Pizza Hut. It inclu
 ![Data Table](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104540.png)
 
 
+
 ## 3. 🛠️ Tools & Technologies
 
 
