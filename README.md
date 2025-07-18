@@ -17,23 +17,23 @@ This Power BI project presents a detailed sales analysis for Pizza Hut. It inclu
 - Regional Sales Performance
 - Interactive Filters for Custom Analysis
 ## 2. 📷 Screenshots
-
 ## 🖼️ Dashboard Preview
 
 ### 🧩 Welcome Page
-![Welcome](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-18%20104010.png?raw=true)
+![Welcome](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104010.png)
 
 ### 📈 Sales Overview
-![Sales Overview](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-18%20104500.png?raw=true)
+![Sales Overview](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104500.png)
 
 ### 🌍 Sales by Region
-![Regional Sales](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-18%20104518.png?raw=true)
+![Regional Sales](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104518.png)
 
 ### 🛒 Product Performance
-![Products](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-18%20104529.png?raw=true)
+![Products](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104529.png)
 
 ### 🧾 Raw Data Table
-![Data Table](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-18%20104540.png?raw=true)
+![Data Table](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104540.png)
+
 
 ## 3. 🛠️ Tools & Technologies
 
