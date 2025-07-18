@@ -45,7 +45,7 @@ This Power BI project presents a detailed sales analysis for Pizza Hut. It inclu
 - Microsoft Excel (for data cleaning)
 - DAX (Data Analysis Expressions)
 
-## 5. 🙋‍♂️ Author & Contact
+## 4. 🙋‍♂️ Author & Contact
 
 
 ## 🙋‍♂️ Author
