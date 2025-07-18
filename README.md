@@ -20,7 +20,7 @@ This Power BI project presents a detailed sales analysis for Pizza Hut. It inclu
 ## 🖼️ Dashboard Preview
 
 ### 🧩 Welcome Page
-![Welcome](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104010.png)
+![Welcome](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/C:\Users\Pritam\OneDrive\Desktop\JIGNESH\Overview.png)
 
 ### 📈 Sales Overview
 ![Sales Overview](https://raw.githubusercontent.com/jignesh20004/Project_Git_Repository/main/pizzahut-Overview.png/Screenshot%202025-07-18%20104500.png)
